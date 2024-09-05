@@ -1,0 +1,10 @@
+../Core/Tasks/Screen/screen_task.c:44:13:delayUs	24	static
+../Core/Tasks/Screen/screen_task.c:61:13:SendCommand4BitFrame	32	static
+../Core/Tasks/Screen/screen_task.c:92:13:SendData4BitFrame	32	static
+../Core/Tasks/Screen/screen_task.c:113:13:LcdInit	8	static
+../Core/Tasks/Screen/screen_task.c:140:13:LcdSendString	24	static
+../Core/Tasks/Screen/screen_task.c:150:13:LcdSetCursr	16	static
+../Core/Tasks/Screen/screen_task.c:164:13:UpdateLcd	8	static
+../Core/Tasks/Screen/screen_task.c:174:6:TASK_SCREEN_Init	24	static
+../Core/Tasks/Screen/screen_task.c:183:6:TASK_SCREEN_Run	32	static
+../Core/Tasks/Screen/screen_task.c:197:6:TASK_SCREEN_UpdateScreen	16	static
